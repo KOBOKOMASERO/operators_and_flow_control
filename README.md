@@ -49,7 +49,5 @@ This project is shared under the MIT License. Feel free to use or modify the exa
 
 ## ✍️ Author
 
-Your Name
-https://github.com/KOBOKOMASERO[KOBOKO MASERO]
-
+[KOBOKOMASERO](https://github.com/KOBOKOMASERO)
 

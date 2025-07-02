@@ -1,6 +1,5 @@
 ### 📁 `README.md`
 
-````markdown
 # Fortran Control Flow Examples
 
 This directory contains a collection of Fortran source files demonstrating fundamental control flow concepts, including conditionals (`if` statements) and loops (`do`, `do while`, `do concurrent`).
@@ -51,12 +50,6 @@ This project is shared under the MIT License. Feel free to use or modify the exa
 ## ✍️ Author
 
 Your Name
-\[Your Email or GitHub profile link]
+https://github.com/KOBOKOMASERO[KOBOKO MASERO]
 
-```
-
----
-
-Let me know if you want the README personalized with your name, GitHub link, or if your directory has specific filenames you'd like listed.
-```
 
